@@ -3,7 +3,15 @@
 
 
 
-微信交流群二维码
+## 微信交流群二维码
+
+- URL
+
+```
+https://frank-lam.github.io/public-static-resources/assets/wechat/wx-group-qrcode.png
+```
+
+- HTML
 
  ```html
 <br/>
@@ -11,3 +19,4 @@
   <img src="https://frank-lam.github.io/public-static-resources/assets/wechat/wx-group-qrcode.png" width="400px"/></div>
  ```
 
+- URL

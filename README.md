@@ -3,7 +3,7 @@
 
 
 
-WeChat-Group-QR-Code
+微信交流群二维码
 
  ```html
 <br/>

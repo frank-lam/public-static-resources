@@ -19,4 +19,3 @@ https://frank-lam.github.io/public-static-resources/assets/wechat/wx-group-qrcod
   <img src="https://frank-lam.github.io/public-static-resources/assets/wechat/wx-group-qrcode.png" width="400px"/></div>
  ```
 
-- URL

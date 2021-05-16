@@ -1,5 +1,5 @@
 # public-static-resources
-公共静态资源文件
+> 这是我的一些公共静态资源文件
 
 
 

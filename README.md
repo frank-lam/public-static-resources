@@ -9,6 +9,8 @@
 
 ```
 https://frank-lam.github.io/public-static-resources/assets/wechat/wx-group-qrcode.png
+
+https://github.com/frank-lam/public-static-resources/blob/main/assets/wechat/wx-group-qrcode.png?raw=true
 ```
 
 - HTML
@@ -16,6 +18,6 @@ https://frank-lam.github.io/public-static-resources/assets/wechat/wx-group-qrcod
  ```html
 <br/>
 <div align="center">
-  <img src="https://frank-lam.github.io/public-static-resources/assets/wechat/wx-group-qrcode.png" width="400px"/></div>
+  <img src="https://github.com/frank-lam/public-static-resources/blob/main/assets/wechat/wx-group-qrcode.png?raw=true" width="400px"/></div>
  ```
 

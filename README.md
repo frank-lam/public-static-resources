@@ -21,3 +21,6 @@ https://github.com/frank-lam/public-static-resources/blob/main/assets/wechat/wx-
   <img src="https://github.com/frank-lam/public-static-resources/blob/main/assets/wechat/wx-group-qrcode.png?raw=true" width="400px"/></div>
  ```
 
+
+
+  <img src="https://cdn.jsdelivr.net/gh/frank-lam/public-static-resources@main/assets/wechat/wx-group-qrcode.png" width="400px"/></div>

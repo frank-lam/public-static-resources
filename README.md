@@ -23,4 +23,4 @@ https://github.com/frank-lam/public-static-resources/blob/main/assets/wechat/wx-
 
 
 
-![](https://cdn.jsdelivr.net/gh/frank-lam/public-static-resources@main/assets/wechat/wx-group-qrcode.png)
+![](https://cdn.jsdelivr.net/gh/frank-lam/hexo-blog-site/assets/weixin/qrcode.png)
